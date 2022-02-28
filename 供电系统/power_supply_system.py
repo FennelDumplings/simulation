@@ -1,7 +1,4 @@
 import numpy as np
-from queue import PriorityQueue
-
-import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties
 font = FontProperties(fname="/home/ppp/anaconda3/envs/python-3.6/lib/python3.6/site-packages/matplotlib/mpl-data/fonts/ttf/simhei.ttf")
